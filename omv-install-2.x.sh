@@ -44,4 +44,4 @@ else echo -e "\033[31m Die Installation wurde abgebrochen\033[0m"
 fi
 
 
-
+#test
