@@ -1,4 +1,4 @@
 # omv-install-2.x.sh
-Es gibt auch eine Möglichkeit:  Openmediavault zu installieren das bis auf ein bar fragen selbstständig installiert.
+Es gibt auch eine Möglichkeit, OpenMediaVault zu installieren, das bis auf ein par Fragen selbstständig installiert.
 
-Bei weitere Fragen:  https://forum-bpi.de/portal
+Bei weiteren Fragen:  https://forum-bpi.de/portal
